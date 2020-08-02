@@ -22,3 +22,9 @@ Can use these login details:
     email: admin@admin.com
     password: password
 
+## Instruction
+
+User must be logged in to be able to create a Post. Details above could be used or new user can be created.
+Can also only edit post create by the active user.
+
+
